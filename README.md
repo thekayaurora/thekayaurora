@@ -8,5 +8,5 @@ I've been coding stuff mostly between 2017-2019, projects from that period inclu
 ### Other platforms where you can find/contact me
 
 * **Twitter**: @Lynxmic
-* **Mastodon/fediverse**: @lynxmic@wetdry.world
-* **Discord**: Lynxmic#1330 (preferred for the quickest response)
+* **Mastodon/fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
+* **Discord**: Lynxmic#1330
