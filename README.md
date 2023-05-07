@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I've been coding stuff mostly between 2017-2019, projects from that period included mostly static websites and Discord bots. I am currently not into the hobby actively with the exception of [my Jekyll blog](https://lynxmic.github.io), but I still run some non-code-related projects, including:
+I created this GitHub account back in 2017 so that I can have a place where I can open-source my work that involve some code along the way. My code so far have involved Discord bots and static websites (in other words, I didn't really do anything significant enough when it comes to development).
 
-* **The Lynxmic YT channel**: I've been making videos for this channel since late 2016; this is where Lynxmic history began. Usually, a new video would come out every Saturday at 11:00 GMT+2; sometimes, but rarely, there may be a extra video during the weekdays. The channel is ran alongside with *Lynxmic Gold*, where I upload extra content and behind-the-scenes. [Link](https://youtube.com/@lynxmic)
-* **Lynxmic's Square**: A 35+ member Discord server I've been operating since late 2017. Formerly Axeon & Aqua Community, it's currently inactive 99% of the time but I won't mind if you take some effort to revive it. [Link](https://discord.io/lynxmic)
+Currently, 99.99999% of my time spent coding is on the [Lynxmic Blog](https://lynxmic.github.io) ([view source](https://github.com/Lynxmic/lynxmic.github.io)), which has been powered by Jekyll since 2021. Otherwise, I'm focused most of the time on other stuff, such as content creation (you can find the link to my YT channel below).
 
-### Other platforms where you can find/contact me
+### Find me on...
 
-* **Twitter**: @Lynxmic
-* **Mastodon/fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
-* **Discord**: Lynxmic#1330
+* **YouTube**: [@Lynxmic](https://youtube.com/@Lynxmic)
+* **Mastodon/Fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
+* **Twitter**: [@Lynxmic](https://twitter.com/Lynxmic)
+* **Discord**:
+   * **Tag**: Lynxmic#1330
+   * **Server**: https://discord.gg/wDxDKJU2sj
