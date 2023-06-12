@@ -10,5 +10,5 @@ Currently, 99.99999% of my time spent coding is on the [Lynxmic Blog](https://ly
 * **Mastodon/Fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
 * **Twitter**: [@Lynxmic](https://twitter.com/Lynxmic)
 * **Discord**:
-   * **Tag**: Lynxmic#1330
+   * **Username**: @lynxmic
    * **Server**: https://discord.gg/wDxDKJU2sj
