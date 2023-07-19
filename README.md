@@ -8,7 +8,7 @@ Currently, 99.99999% of my time spent coding is on the [Lynxmic Blog](https://ly
 
 * **Fediverse** *(preferred)*:
    * **Mastodon**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
-   * **Firefish**: [@lynxmic@lethallava.land](https://lethallava.land/@lynxmic)
+   * **Calckey**: [@lynxmic@lethallava.land](https://lethallava.land/@lynxmic)
 * **Twitter**: [@Lynxmic](https://twitter.com/Lynxmic)
 
 #### Contact methods
