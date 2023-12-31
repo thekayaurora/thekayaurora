@@ -8,7 +8,7 @@ you probably already know me from other places so let me get straight to the poi
 
 * **Mastodon/Fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
 * **Discord**:
-   * **Server**: [Lynxmic's Square](https://discord.gg/wDxDKJU2sj)
+   * **Server**: [Lynxmic's Lodge](https://discord.gg/wDxDKJU2sj)
    * **Username**: lynxmic
 * **Revolt**: Lynxmic#7112
 * **Other social media**: https://lynxmic.github.io
