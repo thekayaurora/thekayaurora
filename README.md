@@ -10,5 +10,4 @@ you probably already know me from other places so let me get straight to the poi
 * **Discord**:
    * **Server**: [Lynxmic's Lodge](https://discord.gg/wDxDKJU2sj)
    * **Username**: lynxmic
-* **Revolt**: Lynxmic#7112
 * **Other social media**: https://lynxmic.github.io
