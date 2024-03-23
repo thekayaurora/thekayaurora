@@ -7,7 +7,7 @@ you probably already know me from other places so let me get straight to the poi
 ### Find me on...
 
 * **Mastodon/Fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
-* **Bluesky**: [@lynxmic.bsky.social](https://bsky.app/profile/lynxmic.bsky.social)) (rarely use)
+* **Bluesky**: [@lynxmic.bsky.social](https://bsky.app/profile/lynxmic.bsky.social) (rarely use)
 * **Discord**:
    * **Server**: [Lynxmic's Square](https://discord.gg/wDxDKJU2sj)
    * **Username**: lynxmic
