@@ -2,12 +2,12 @@
 
 you probably already know me from other places so let me get straight to the point: this is the place where I open-source any of my code-involving projects, although they aren't of that interesting/useful/whatever type. pretty obvious, right?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxmic&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunn-ia32&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me on...
 
-* **Mastodon/Fediverse**: [@lynxmic@wetdry.world](https://wetdry.world/@lynxmic)
+* **Mastodon/Fediverse**: [@sunn@wetdry.world](https://wetdry.world/@sunn)
 * **Discord**:
    * **Server**: [Lynxmic's Square](https://discord.gg/wDxDKJU2sj)
-   * **Username**: lynxmic
-* **Website** (other socials are listed there): https://lynxmic.github.io
+   * **Username**: sunn.ia32
+* **Website** (other socials are listed there): https://sunn.is-a.dev
