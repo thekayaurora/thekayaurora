@@ -8,6 +8,6 @@ you probably already know me from other places so let me get straight to the poi
 
 * **Mastodon/Fediverse**: [@sunn@wetdry.world](https://wetdry.world/@sunn)
 * **Discord**:
-   * **Server**: [Lynxmic's Square](https://discord.gg/wDxDKJU2sj)
-   * **Username**: sunn.ia32
+   * **Server**: [Lynxmic](https://discord.gg/wDxDKJU2sj)
+   * **Username**: sunnville
 * **Website** (other socials are listed there): https://sunn.is-a.dev
