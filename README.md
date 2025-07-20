@@ -2,4 +2,4 @@
 
 you probably already know me from other places so let me get straight to the point: this is the place where I open-source any of my code-involving projects, although they aren't of that interesting/useful/whatever type. pretty obvious, right?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theclyron&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekayaurora&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
