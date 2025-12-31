@@ -9,7 +9,7 @@
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord-kayaurora-gray?labelColor=blue"></a>
 </div>
 
-my name is **KayAurora** *(or Kay for short)*! ^^\
+my name is **KayAurora** *(or Kay for short, but you can also call me Amethyst)*! ^^\
 this is the place where I open-source my code. I currently mostly do web development but I'm planning to get into more soon!\
 you might know me from **[@Axeon-Network](https://github.com/Axeon-Network)** and from other side projects I've worked on~
 
